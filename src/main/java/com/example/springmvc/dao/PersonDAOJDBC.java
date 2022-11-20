@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class PersonDaoJdbc {
+public class PersonDAOJDBC {
     private static final String URL = "jdbc:postgresql://localhost:5432/person";
     private static final String USERNAME = "user";
     private static final String PASSWORD = "123";
